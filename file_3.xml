@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="file_4.css"?>
+<!--Имя файла:file_3.xml-->
+<FILE_3>
+         <TELEPHONE>
+		         <MODEL>Модель 1</MODEL>
+				 <NAME>Samsung</NAME>
+				 <YEAR>2022</YEAR>
+				 <GROUP>Android</GROUP>
+	     </TELEPHONE>
+		 <TELEPHONE>
+		         <MODEL>Модель 2</MODEL>
+				 <NAME>iPhone</NAME>
+				 <YEAR>2020</YEAR>
+				 <GROUP>IOS</GROUP>
+		 </TELEPHONE>
+		 <TELEPHONE>
+		         <MODEL>Модель 3</MODEL>
+				 <NAME>Honor</NAME>
+				 <YEAR>2019</YEAR>
+				 <GROUP>Android</GROUP>
+	     </TELEPHONE>
+		 <TELEPHONE>
+		         <MODEL>Модель 4</MODEL>
+				 <NAME>Xiaomi</NAME>
+				 <YEAR>2021</YEAR>
+				 <GROUP>Android</GROUP>
+	     </TELEPHONE>
+</FILE_3>

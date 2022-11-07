@@ -1,0 +1,9 @@
+TELEPHONE
+       {display:block;
+	   margin-top: 12 pt;
+	   font-size: 10 pt }
+MODEL 
+       {font-size:italic
+	   color:red}
+NAME 
+       {font-weight:bold}
